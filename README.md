@@ -10,7 +10,7 @@ A small 2D game made in C. A 42 School project
       ```
 3. Compile with make command
       ```bash
-      make
+      cd So Long && make
       ```
 5. Execute the exec with the args
    ```bash
