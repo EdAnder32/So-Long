@@ -7,7 +7,7 @@ A small 2D game made in C. A 42 School project
 1. Clone the repo
       ```bash
        git clone https://github.com/EdAnder32/So-Long.git
-       ```
+      ```
 3. Compile with make command
       ```bash
       make
